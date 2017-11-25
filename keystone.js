@@ -10,8 +10,8 @@ var keystone = require('keystone');
 // and documentation.
 
 keystone.init({
-	'name': 'shiftus',
-	'brand': 'shiftus',
+	'name': 'ks_test',
+	'brand': 'ks_test',
 
 	'sass': 'public',
 	'static': 'public',
