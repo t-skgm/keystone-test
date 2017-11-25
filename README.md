@@ -3,7 +3,7 @@
 ```bash
 brew install mongodb --with-openssl
 mongod
-mongorestore -v --db ks-test ./db-dump/ks_test
+mongorestore -v --db ks_test ./db-dump/ks_test
 ```
 
 ```bash
